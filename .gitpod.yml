@@ -1,2 +1,10 @@
 image:
   file: .gitpod.dockerfile
+
+vscode:
+  extensions:
+    - EditorConfig.EditorConfig@0.14.5:DTIJHHNrM36zsvYRBOY3ow==
+    - dbaeumer.vscode-eslint@2.1.5:9Wg0Glx/TwD8ElFBg+FKcQ==
+    - vangware.dark-plus-material@2.2.8:BwlPAm5HzieT4u7DClapfg==
+    - PKief.material-icon-theme@4.1.0:KnvIQCZopEmlWvmvaG/R3g==
+    - esbenp.prettier-vscode@4.7.0:kgoYSh1LwTixKtJtQWtodQ==
